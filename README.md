@@ -24,7 +24,7 @@ How is the company performing across its sales pipeline, products, customer acco
 
 ### Sales Performance Overview
 
-![Sales Performance Overview](images/)
+![Sales Performance Overview](images/pr5-sales-overview.png)
 
 ### Product Performance Overview
 
