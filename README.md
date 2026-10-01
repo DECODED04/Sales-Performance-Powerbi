@@ -1,4 +1,4 @@
-# sales-performance2-powerbi-analysis
+# sales-performance-powerbi-analysis
 Power BI analysis of sales performance across opportunities, products, company accounts, and sales agents.
 # Sales Performance Analysis
 
